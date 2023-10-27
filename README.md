@@ -30,7 +30,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/-SQLPlus-05122A?style=flat&logo=oracle)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-05122A?style=flat&logo=visual-basic)
 ![Prolog](https://img.shields.io/badge/-Prolog-05122A?style=flat&logo=prolog)
